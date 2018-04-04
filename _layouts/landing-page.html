@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include /head.html %}
+
+	<body id="top">
+
+        {% include /header.html %}
+
+        <!-- Banner -->
+        <section id="banner">
+            <div class="inner">
+                <h2>A space of my own</h2>
+                <p>I am a PHD student at UCL with a deep interest in Dark Matter</p>
+                <ul class="actions">
+                    <li><a href="{{ site.baseurl }}/documents/Nicolas_Angelides_CV_Aug_2017.pdf" class="button big black">CV</a></li>
+                    <li><a href="mailto:angelidesnicolas@gmail.com?Subject=Hello There 🦄" class="button big black">Contact</a></li>
+                </ul>
+            </div>
+        </section>
+        {{ content }}
+        {% include /footer.html %}
+
+    </body>
+
+</html>

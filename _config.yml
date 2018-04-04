@@ -1,0 +1,12 @@
+# Site settings
+title: Nicolas Angelides
+email: angelidesnicolas@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a frintpage to my bubble. Where it floats, where it has flown and where it will float in the future. Physics, Art and anything in betweeen.
+baseurl: "/Regnidorhcs" # the subpath of your site, e.g. /blog/
+url: "http://regnidorhcs.com" # the base hostname & protocol for your site
+twitter_username: regnidorhcS
+github_username:  Regnidorhcs
+
+# Build settings
+markdown: kramdown
