@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a frontpage to my bubble. Where it floats, where it has flown and where it will float in the future. Physics, Art and anything in betweeen.
 baseurl: "/Regnidorhcs" # the subpath of your site, e.g. /blog/
 url: "http://regnidorhcs.com" # the base hostname & protocol for your site
-homepage: "http://regnidorhcs.com/Regnidorhcs"
+homepage: "http://regnidorhcs.com/"
 twitter_username: regnidorhcS
 github_username:  Regnidorhcs
 
