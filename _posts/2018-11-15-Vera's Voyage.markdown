@@ -24,7 +24,6 @@ It was music! A piece no human can ever hear or feel, but a piece heard in both 
 
 My translator! It was picking up a language in the gravitational pulses! But how could it be? A language as old as the universe itself? This piece was a song!
 
-(Can also just read out the lyrics)
 Travelling through the universe all alone.
 Travelling through the universe on our own.
 With our never ending song, we pull the stars together,
@@ -32,7 +31,6 @@ in the vast unknown.
 
 An intelligent creature. How old could it be? What did these words mean? At that point I knew what I had to do. I quickly rerouted the translator to the gravity generator and responded;
 
-(Can also just read out the lyrics)
 Travelling through the universe all alone.
 Travelling through the universe on my own.
 With this beautiful song, I wish to find adventure,
