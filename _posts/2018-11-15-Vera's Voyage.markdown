@@ -3,6 +3,8 @@ layout: post
 ---
 <img src="{{ site.baseurl }}/images/Vera.png" class="fit image">
 
+<b><em> The following original story aims to communicate the complex mysteries of the Universe to children of all ages. Feel free to use it for your own outreach endeavors but please do so while respecting my intellectual property rights. 
+
 My name is Nicolas and I am a Dark Matter physicist. As a physicist, I get to study the comings and goings of the universe.
 
 I spend a lot of time thinking about the very large things in the world and the very small things. I think about how the planets move, and I think about how magnets work. I think about how atoms are held together and I think about how stars are arranged in the night sky.
