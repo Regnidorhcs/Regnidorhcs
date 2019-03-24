@@ -11,7 +11,7 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			
+
 			// Global.
 				global: {
 					range: '*',
@@ -81,12 +81,12 @@
 		},
 		plugins: {
 			layers: {
-				
+
 				// Config.
 					config: {
 						transform: true
 					},
-				
+
 				// Navigation Panel.
 					navPanel: {
 						animation: 'pushX',
@@ -116,9 +116,17 @@
 	});
 
 	$(function() {
-		
-		// jQuery ready stuff.
-		
+
 	});
+
+	$(function(){
+	  $('.multipleslides').each(function(){
+	    // scope everything for each slideshow
+	    var $this = this;
+	    $('> :gt(0)', $this).hide();
+	    setInterval(function(){$('> :first-child',$this).fadeOut(1000).next().fadeIn(1000).delay(Math.random()*3500).end().appendTo($this);}, 4000);
+	  })
+	});
+
 
 })(jQuery);
