@@ -124,7 +124,7 @@
 	    // scope everything for each slideshow
 	    var $this = this;
 	    $('> :gt(0)', $this).hide();
-	    setInterval(function(){$('> :first-child',$this).fadeOut(1000).next().fadeIn(1000).delay(Math.random()*3500).end().appendTo($this);}, 4000);
+	    setInterval(function(){$('> :first-child',$this).fadeOut(1000).next().fadeIn(1000).delay(3500).end().appendTo($this);}, 4000);
 	  })
 	});
 
